@@ -1,4 +1,4 @@
-# Projetos Próprios - Linguageum Kotlin
+# Projetos Próprios - Linguagem Kotlin
 
 ## Calculadora simples
 ##...
