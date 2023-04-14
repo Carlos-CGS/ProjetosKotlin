@@ -30,8 +30,8 @@ As entradas serão datas em formato numeral. O dia ou mês que possuirem somente
 - Saida
 As saídas serão as mesmas datas da entrada porém, com o mês escrito por extenso. O mês deve ter a primeira letra em maiúsculo.
 
-Entrada = 19/10/1997
-Saída = 19 de outubro de 1997               
+- Entrada = 19/10/1997
+- Saída = 19 de outubro de 1997               
 
 ## Desafio 3 - Explorando Mapas, Loops e Regras com Kotlin
 
