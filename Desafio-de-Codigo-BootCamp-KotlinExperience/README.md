@@ -83,6 +83,5 @@ A entrada consiste em dois valores inteiros, sendo N a população do país A e 
 - Saída
 A saída consiste em retornar o número de anos necessários para que a população do país A ultrapasse ou iguale a população B, mantidas as taxas de crescimento. Confira exemplo abaixo:
 
-Entrada = 80000, 100000
-
-Saída = 16 anos.
+- Entrada = 80000, 100000
+- Saída = 16 anos.
