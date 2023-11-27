@@ -1,4 +1,4 @@
-# Projetos Desenvolvidos em Linguagem Kotlin
+# <img src="https://hermes.dio.me/skills/e6b5fb78-716f-46b3-80e1-78bc9c78420b.png" height="50"> Projetos Desenvolvidos em Linguagem Kotlin
 
 ✅ [Desafios de Código Kotlin- BootCamp Kotlin Experience](https://github.com/Carlos-CGS/ProjetosKotlin/blob/main/Desafio-de-Codigo-BootCamp-KotlinExperience/README.md) | Desafios de Códigos propostos pela DIO em um BootCamp da plataforma.
 
